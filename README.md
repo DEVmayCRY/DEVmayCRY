@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://github.com/DEVmayCRY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVmayCRY&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVmayCRY&layout=compact&langs_count=7&theme=aura"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="mat-Ts" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
   <img align="center" alt="mat-React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
